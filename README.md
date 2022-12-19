@@ -12,7 +12,7 @@ The project was to find the best machine learning model in order to classify fre
 
 # Table of Contents
 
-1. [Logistic regression](https://colab.research.google.com/github/Adrian-Muino/DMML2022_Geneva/blob/main/DMML_Geneva.ipynb#scrollTo=Imports).
+1. [Logistic regression](https://colab.research.google.com/github/Adrian-Muino/DMML2022_Geneva/blob/main/DMML_Geneva.ipynb#scrollTo=Logistic_Regression).
 
 
 ## Methodology
