@@ -45,7 +45,25 @@ Random Forest </br>
 
 We also used gridsearch and cross validation plot in the decision tree in order to find the best parameters with the highest accuracy.
 
+</br>
+<p align="center">
+<img width="400" src="https://fontmeme.com/permalink/221219/f4054e7e06c7a18ca481271166811921.png">
+<p>
+</br>
 
+
+</br>
+<p align="center">
+<img width="400" src="https://fontmeme.com/permalink/221219/99485c5ec53a29415b16a94c2100bc5c.png">
+<p>
+</br>
+
+
+</br>
+<p align="center">
+<img width="400" src="https://fontmeme.com/permalink/221219/f4054e7e06c7a18ca481271166811921.png">
+<p>
+</br>
 
 ## Summary of the results table : (TO BE COMPLETED)
 
