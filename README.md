@@ -61,7 +61,7 @@ We also used gridsearch and cross validation plot in the decision tree in order 
 
 </br>
 <p align="center">
-<img width="400" src="https://fontmeme.com/permalink/221219/f4054e7e06c7a18ca481271166811921.png">
+<img width="400" src="https://fontmeme.com/permalink/221219/89919f5ad9759f663241eca5f028525c.png">
 <p>
 </br>
 
