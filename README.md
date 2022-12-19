@@ -32,10 +32,10 @@ We decided to separate our work in 4 different colab from the simpliest model to
 
 In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We use spacy in order to tokenize our word and train the following models:
 
-Linear Regression
-K-nearest neighbors algorithm
-Decision tree
-Random Forest
+Linear Regression </br>
+K-nearest neighbors algorithm </br>
+Decision tree </br>
+Random Forest </br>
 
 We also used gridsearch and cross validation plot in the decision tree in order to find the best parameters with the highest accuracy.
 
