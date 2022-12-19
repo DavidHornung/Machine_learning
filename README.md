@@ -37,7 +37,7 @@ K-nearest neighbors algorithm
 Decision tree
 Random Forest
 
-We also used gridsearch and 
+We also used gridsearch and cross validation plot in the decision tree in order to find the best parameters with the highest accuracy.
 
 
 
