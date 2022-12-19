@@ -3,6 +3,10 @@
   # DMML2022_Geneva
 By Adrian Muino & David Hornung aka Gimli-coding
 
+![Picture5](https://user-images.githubusercontent.com/114933900/208505648-25a45cfc-e060-45cd-b9e6-dae23de065f7.png)
+
+
+
 
 
 Brief description of the project : 
