@@ -26,9 +26,20 @@ The project was to find the best machine learning model in order to classify fre
  4. [Linear regression using pretrained models Heu Adrian tu trouveras un bon titre à ton model ;)]()
 
 
-## Methodology
+# Methodology
 
-Our approach was to move as quick as possible to text embeding and to find the best pretrained model with the largest database.
+We decided to separate our work in 4 different colab from the simpliest model to the most complicated one. 
+
+In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We use spacy in order to tokenize our word and train the following models:
+
+Linear Regression
+K-nearest neighbors algorithm
+Decision tree
+Random Forest
+
+We also used gridsearch and 
+
+
 
 ## Summary of the results table : (TO BE COMPLETED)
 
