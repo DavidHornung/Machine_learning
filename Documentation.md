@@ -15,4 +15,6 @@ We used the previous assignement that we did in class.
 
 [Text embedings](https://en.wikipedia.org/wiki/Word_embedding)
 
+[Multilingual text analytics](https://nlpcloud.com/multilingual-nlp-how-to-perform-nlp-in-non-english-languages.html)
+
 # 4.DMML_2022_Geneva_Bert&Tensor_Model.ipynb
