@@ -76,6 +76,15 @@ Decision trees are popular because they are easy to understand and interpret, an
 <p align="center">
 Random Forest </br>
 <p>
+  Random forest is an ensemble learning method for classification and regression tasks. It is a type of supervised learning algorithm that uses multiple decision trees and combines their predictions to make a final prediction.
+
+In a random forest model, each decision tree is trained on a random subset of the data, and a random subset of the features is used to make predictions at each node in the tree. This process is repeated many times, and the final prediction is made by averaging the predictions of all the decision trees in the forest.
+
+Random forest models are popular because they tend to be more accurate than individual decision trees and are resistant to overfitting. They are also relatively easy to train and tune, and they can handle a large number of features and can work with both categorical and continuous data.
+
+To use a random forest model, you need to choose the number of decision trees to include in the forest and set any other relevant hyperparameters, such as the maximum depth of the trees or the number of features to consider at each node. You can then train the model on your training data and use it to make predictions on new data.
+  
+  
 We also used gridsearch and cross validation plot in the decision tree in order to find the best parameters with the highest accuracy.
 
 </br>
