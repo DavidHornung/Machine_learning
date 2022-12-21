@@ -105,6 +105,7 @@ get_embeddings([
     "Les coûts kilométriques réels peuvent diverger sensiblement des valeurs moyennes en fonction du moyen de transport utilisé, du taux d'occupation ou du taux de remplissage, de l'infrastructure utilisée, de la topographie des lignes, du flux de trafic, etc."]
 )
 
+from keras import backend as K
 def balanced_recall(y_true, y_pred):
     """This function calculates the balanced recall metric
     recall = TP / (TP + FN)
@@ -120,6 +121,7 @@ def balanced_recall(y_true, y_pred):
         recall_by_class = recall_by_class + recall
     return recall_by_class / y_pred.shape[1]
 
+from keras import backend as K
 def balanced_precision(y_true, y_pred):
     """This function calculates the balanced precision metric
     precision = TP / (TP + FP)
