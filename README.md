@@ -40,7 +40,7 @@ In the first colab "Models ask by the faculty" we do no data cleaning and keep t
 </br>
 </br>
 <p align="center">
-<img width="400" src="https://fontmeme.com/permalink/221219/f4054e7e06c7a18ca481271166811921.png">
+<img width="400" src="https://fontmeme.com/permalink/221221/6aa05142fb36f2c8e1508addfbe36dc0.png">
 <p>
 </br>
  
