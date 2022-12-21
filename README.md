@@ -29,12 +29,6 @@ The project was to find the best machine learning model in order to classify fre
 # Methodology
 
 We decided to separate our work in 4 different colab from the simpliest model to the most complicated one.
-
-</br>
-<p align="center">
-<img width="400" src="https://fontmeme.com/permalink/221219/6aa05142fb36f2c8e1508addfbe36dc0.png">
-<p>
-</br>
   
 In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We tokenize our word and train the following models:
 <p align="center">
