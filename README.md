@@ -64,9 +64,6 @@ We also used gridsearch in order to find the best parameters with the highest ac
 <p>
 </br>
 </br>
-<p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/114933900/208532349-5a3facf6-3931-45d1-8df0-23612263a568.jpg">
-<p>
 
  </br>
 </br>
