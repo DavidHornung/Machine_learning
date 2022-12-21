@@ -50,6 +50,17 @@ We also used gridsearch and cross validation plot in the decision tree in order 
 <img width="400" src="https://fontmeme.com/permalink/221219/f4054e7e06c7a18ca481271166811921.png">
 <p>
 </br>
+spaCy is a popular natural language processing (NLP) library that includes a tokenizer for dividing a piece of text into individual tokens (commonly referred to as words, although in NLP the term "token" is more general and can refer to any part of a piece of text).
+
+The spaCy tokenizer works by first dividing the text into sentences, using a combination of rules and machine learning models trained on a large dataset. It then divides each sentence into tokens, again using a combination of rules and machine learning models.
+
+One of the key features of the spaCy tokenizer is its ability to handle a wide range of languages and writing systems, including languages with complex grammar and vocabulary, such as German and French, and languages with non-Latin scripts, such as Arabic and Chinese. The tokenizer is also able to handle a variety of text types, including social media posts, news articles, and academic papers.
+
+Once the text has been tokenized, spaCy performs a number of additional NLP tasks, including part-of-speech tagging, named entity recognition, and dependency parsing. These tasks are used to extract structured information from the text and make it easier to analyze and manipulate.
+
+
+
+
 
 
 </br>
