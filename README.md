@@ -33,6 +33,7 @@ We decided to separate our work in 4 different colab from the simpliest model to
 <p align="center">
 <img width="400" src="https://fontmeme.com/permalink/221221/d7fef572d22a67a28eb5bd36631e80f5.png">
 <p>
+  </br>
 </br>
 In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We tokenize our word and train the following models:
 <p align="center">
@@ -54,7 +55,7 @@ Random Forest </br>
   </br>
   </br>
 We also used gridsearch in order to find the best parameters with the highest accuracy.
-
+</br>
 </br>
 <p align="center">
 <img width="400" src="https://fontmeme.com/permalink/221219/f4054e7e06c7a18ca481271166811921.png">
