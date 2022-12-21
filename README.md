@@ -62,26 +62,6 @@ We also used gridsearch in order to find the best parameters with the highest ac
 <img width="400" src="https://fontmeme.com/permalink/221219/f4054e7e06c7a18ca481271166811921.png">
 <p>
 </br>
-<p align="center">
-SPACY
-<p>
-spaCy is a popular natural language processing (NLP) library that includes a tokenizer for dividing a piece of text into individual tokens (commonly referred to as words, although in NLP the term "token" is more general and can refer to any part of a piece of text).
-
-The spaCy tokenizer works by first dividing the text into sentences, using a combination of rules and machine learning models trained on a large dataset. It then divides each sentence into tokens, again using a combination of rules and machine learning models.
-
-One of the key features of the spaCy tokenizer is its ability to handle a wide range of languages and writing systems, including languages with complex grammar and vocabulary, such as German and French, and languages with non-Latin scripts, such as Arabic and Chinese. The tokenizer is also able to handle a variety of text types, including social media posts, news articles, and academic papers.
-
-Once the text has been tokenized, spaCy performs a number of additional NLP tasks, including part-of-speech tagging, named entity recognition, and dependency parsing. These tasks are used to extract structured information from the text and make it easier to analyze and manipulate.
-<p align="center">
-Natural Language Toolkit
-<p>
-The Natural Language Toolkit (NLTK) is a suite of libraries and resources for natural language processing (NLP) in the Python programming language. It provides tools for tasks such as tokenization (dividing text into individual words and punctuation), part-of-speech tagging (identifying the part of speech of each word), and named entity recognition (identifying named entities like person names, organizations, and locations).
-
-NLTK also includes a number of resources and datasets for working with text, including a large collection of sample texts, word lists, and corpora (large collections of text). It also includes tools for working with other languages and writing systems, such as stemmers for reducing words to their base form and tools for working with machine translation.
-
-To use NLTK, you first need to install the library and then import the relevant modules in your Python code. You can then use the functions and classes provided by NLTK to process text and perform various NLP tasks. For example, you can use the word_tokenize function to tokenize a piece of text into individual words, or the pos_tag function to tag the part of speech of each word.
-
-
 
 
 </br>
@@ -93,12 +73,6 @@ To use NLTK, you first need to install the library and then import the relevant 
 <p align="center">
 <img width="400" src="https://user-images.githubusercontent.com/114933900/208532349-5a3facf6-3931-45d1-8df0-23612263a568.jpg">
 <p>
-  
-  Word embeddings are a way to represent words as numerical vectors. The idea behind word embeddings is to capture the meaning of a word in a continuous, low-dimensional space, such that semantically similar words are close to each other in that space.
-
-There are different ways to create word embeddings, but a common approach is to use a neural network to learn the embeddings from large amounts of text data. The neural network takes as input a one-hot encoded representation of a word, where each word in the vocabulary is represented by a unique vector with all zeros except for a 1 in the index corresponding to that word. The network then learns to map this one-hot encoded vector to a continuous, low-dimensional space through an embedding layer.
-
-Once the network has learned the embeddings, they can be used as input to other machine learning models, such as natural language processing (NLP) tasks like text classification or language translation. The advantage of using word embeddings is that they capture the meaning of words in a way that is more meaningful for machine learning models than a one-hot encoded representation, which treats each word as an independent entity with no relationship to other words.
 
  </br>
 </br>
