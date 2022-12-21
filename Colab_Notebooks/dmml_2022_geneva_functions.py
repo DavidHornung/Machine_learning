@@ -138,12 +138,14 @@ def balanced_precision(y_true, y_pred):
     # return average balanced metric for each class
     return precision_by_class / y_pred.shape[1]
 
+from keras import backend as K
 def balanced_f1_score(y_true, y_pred):
     """This function calculates the F1 score metric"""
     precision = balanced_precision(y_true, y_pred)
     recall = balanced_recall(y_true, y_pred)
     return 2 * ((precision * recall) / (precision + recall + K.epsilon()))
 
+import numpy as np
 def predict_class(reviews,model):
   '''predict class of input text
   Args:
