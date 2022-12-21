@@ -1,5 +1,6 @@
 # 1.DMML_2022_Geneva_Mandatory_Models.ipynb
 
+We used the previous assignement that we did in class.
 
 # 2.DMML_2022_Geneva_Improved_Models.ipynb
 
