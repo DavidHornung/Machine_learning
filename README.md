@@ -27,7 +27,7 @@ The project was to find the best machine learning model in order to classify fre
  
 </br>
 <p align="center">
-<img width="1000" src="https://user-images.githubusercontent.com/114933900/208972466-1fb48a6e-7104-4943-ab7a-8d79a0c41e94.png">
+<img width="1000" src="https://user-images.githubusercontent.com/114933900/208974347-0e640dd3-8c55-4e01-9b8b-67a3b3737591.png">
 <p>
 
   </br>
