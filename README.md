@@ -37,10 +37,8 @@ We decided to separate our work in 4 different colab from the simpliest model to
 </br>
 In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We tokenize our word and train the following models:
 
-</br>
-</br>
 <p align="center">
-<img width="400" src="https://fontmeme.com/permalink/221221/6aa05142fb36f2c8e1508addfbe36dc0.png">
+<img width="400" src="https://user-images.githubusercontent.com/114933900/208948412-8ef63cc9-964d-43b8-963d-53ca2ce24a9b.png">
 <p>
 </br>
  
