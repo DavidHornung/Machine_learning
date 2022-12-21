@@ -24,7 +24,13 @@ The project was to find the best machine learning model in order to classify fre
  3. [Linear regression using embeding](https://colab.research.google.com/github/Adrian-Muino/DMML2022_Geneva/blob/main/Colab_Notebooks/DMML-2022_Geneva_Embeding_Model.ipynb#scrollTo=AHaES7NAqweE).
 
  4. [Linear regression using pretrained models Heu Adrian tu trouveras un bon titre à ton model ;)]()
+ 
+</br>
+<p align="center">
+<img width="1000" src="https://user-images.githubusercontent.com/114933900/208972466-1fb48a6e-7104-4943-ab7a-8d79a0c41e94.png">
+<p>
 
+  </br>
 
 # Methodology
 
