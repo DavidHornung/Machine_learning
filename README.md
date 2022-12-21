@@ -36,21 +36,13 @@ We decided to separate our work in 4 different colab from the simpliest model to
   </br>
 </br>
 In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We tokenize our word and train the following models:
-<p align="center">
-Logistic Regression </br>
-<p>
 
+</br>
+</br>
 <p align="center">
-K-nearest neighbors algorithm </br>
+<img width="400" src="https://fontmeme.com/permalink/221219/f4054e7e06c7a18ca481271166811921.png">
 <p>
-
-<p align="center">
-Decision tree </br>
-<p>
-  
-<p align="center">
-Random Forest </br>
-<p>
+</br>
  
   </br>
   </br>
@@ -69,6 +61,10 @@ We also used gridsearch in order to find the best parameters with the highest ac
 <p>
 </br>
 </br>
+
+<p align="center">
+<img width="400" src="https://user-images.githubusercontent.com/114933900/208947363-6b57c2a0-20ff-40f9-bbf0-47139540f95c.png">
+<p>
 
  </br>
 </br>
