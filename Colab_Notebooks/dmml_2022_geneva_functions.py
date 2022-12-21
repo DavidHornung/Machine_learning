@@ -34,7 +34,7 @@ def nltk_tokenizer(doc):
 
 
 import spacy
-sp = spacy.load('fr_dep_news_trf')
+sp = spacy.load('fr_core_news_sm')
 # Create tokenizer function
 def spacy_tokenizer_2(df):
     # Create token object, which is used to create documents with linguistic annotations.
