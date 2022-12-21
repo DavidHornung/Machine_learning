@@ -58,7 +58,11 @@ One of the key features of the spaCy tokenizer is its ability to handle a wide r
 
 Once the text has been tokenized, spaCy performs a number of additional NLP tasks, including part-of-speech tagging, named entity recognition, and dependency parsing. These tasks are used to extract structured information from the text and make it easier to analyze and manipulate.
 
+The Natural Language Toolkit (NLTK) is a suite of libraries and resources for natural language processing (NLP) in the Python programming language. It provides tools for tasks such as tokenization (dividing text into individual words and punctuation), part-of-speech tagging (identifying the part of speech of each word), and named entity recognition (identifying named entities like person names, organizations, and locations).
 
+NLTK also includes a number of resources and datasets for working with text, including a large collection of sample texts, word lists, and corpora (large collections of text). It also includes tools for working with other languages and writing systems, such as stemmers for reducing words to their base form and tools for working with machine translation.
+
+To use NLTK, you first need to install the library and then import the relevant modules in your Python code. You can then use the functions and classes provided by NLTK to process text and perform various NLP tasks. For example, you can use the word_tokenize function to tokenize a piece of text into individual words, or the pos_tag function to tag the part of speech of each word.
 
 
 
