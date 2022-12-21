@@ -61,6 +61,13 @@ We also used gridsearch and cross validation plot in the decision tree in order 
 <p align="center">
 <img width="400" src="https://user-images.githubusercontent.com/114933900/208532349-5a3facf6-3931-45d1-8df0-23612263a568.jpg">
 <p>
+  
+  Word embeddings are a way to represent words as numerical vectors. The idea behind word embeddings is to capture the meaning of a word in a continuous, low-dimensional space, such that semantically similar words are close to each other in that space.
+
+There are different ways to create word embeddings, but a common approach is to use a neural network to learn the embeddings from large amounts of text data. The neural network takes as input a one-hot encoded representation of a word, where each word in the vocabulary is represented by a unique vector with all zeros except for a 1 in the index corresponding to that word. The network then learns to map this one-hot encoded vector to a continuous, low-dimensional space through an embedding layer.
+
+Once the network has learned the embeddings, they can be used as input to other machine learning models, such as natural language processing (NLP) tasks like text classification or language translation. The advantage of using word embeddings is that they capture the meaning of words in a way that is more meaningful for machine learning models than a one-hot encoded representation, which treats each word as an independent entity with no relationship to other words.
+
  </br>
 </br>
 <p align="center">
