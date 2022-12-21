@@ -47,9 +47,22 @@ The line of best fit is a line that is as close as possible to all the data poin
 To find the line of best fit, linear regression uses a method called least squares, which finds the line that minimizes the sum of the squared differences between the observed data points and the line. Once the line of best fit has been found, it can be used to make predictions about the dependent variable given new values of the independent variable(s).
 
 Linear regression is a widely used statistical method that is simple to understand and implement, and it is often used as a baseline model for more complex regression methods. It is most appropriate when the relationship between the dependent and independent variables is approximately linear.
-
+<p align="center">
 K-nearest neighbors algorithm </br>
+<p>
+The K-nearest neighbors (KNN) algorithm is a non-parametric method used for classification and regression. In both cases, the goal is to predict the value of a target variable for a given data point by looking at the values of the target variable for the K nearest data points.
 
+For classification, the target variable is a categorical variable with a fixed set of possible values, and the KNN algorithm assigns the data point to the most common category among its K nearest neighbors. For regression, the target variable is a continuous variable, and the KNN algorithm predicts the value of the target variable for the data point as the average of the values of the K nearest neighbors.
+
+The KNN algorithm has a number of important hyperparameters:
+
+K: The number of nearest neighbors to consider. A larger value of K will result in a smoother decision boundary, while a smaller value will result in a more complex boundary.
+
+Distance metric: The method used to measure the distance between data points. Common options include Euclidean distance and Manhattan distance.
+
+Weighting function: The method used to weight the contribution of each nearest neighbor to the prediction. A common option is to use a uniform weighting, which gives equal weight to all neighbors, but other options include weighting by distance or using a kernel function.
+
+To use the KNN algorithm, you need to choose values for these hyperparameters and then find the K nearest neighbors for each data point using the chosen distance metric. You can then use the values of the target variable for the K nearest neighbors to make a prediction for the data point.
 
 Decision tree </br>
 Random Forest </br>
