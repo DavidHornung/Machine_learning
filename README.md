@@ -37,9 +37,20 @@ We decided to separate our work in 4 different colab from the simpliest model to
 </br>
   
 In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We use spacy in order to tokenize our word and train the following models:
-
+<p align="center">
 Linear Regression </br>
+<p>
+Linear regression is a statistical method used to model the linear relationship between a dependent variable and one or more independent variables. In a linear regression model, the goal is to find the line of best fit that describes the relationship between the variables as accurately as possible.
+
+The line of best fit is a line that is as close as possible to all the data points in a scatter plot of the variables. The line is defined by a mathematical equation of the form y = mx + b, where y is the dependent variable, x is the independent variable, m is the slope of the line, and b is the intercept (the point where the line crosses the y-axis).
+
+To find the line of best fit, linear regression uses a method called least squares, which finds the line that minimizes the sum of the squared differences between the observed data points and the line. Once the line of best fit has been found, it can be used to make predictions about the dependent variable given new values of the independent variable(s).
+
+Linear regression is a widely used statistical method that is simple to understand and implement, and it is often used as a baseline model for more complex regression methods. It is most appropriate when the relationship between the dependent and independent variables is approximately linear.
+
 K-nearest neighbors algorithm </br>
+
+
 Decision tree </br>
 Random Forest </br>
 
