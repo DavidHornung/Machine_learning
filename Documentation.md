@@ -17,4 +17,6 @@ We used the previous assignement that we did in class.
 
 [Multilingual text analytics](https://nlpcloud.com/multilingual-nlp-how-to-perform-nlp-in-non-english-languages.html)
 
+[Colab with text Embeding](https://colab.research.google.com/github/tensorflow/text/blob/master/docs/guide/word_embeddings.ipynb#scrollTo=2MlsXzo-ZlfK)
+
 # 4.DMML_2022_Geneva_Bert&Tensor_Model.ipynb
