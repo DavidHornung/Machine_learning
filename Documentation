@@ -5,10 +5,10 @@
 
 
 3.DMML_2022_Geneva_Embeding_Model.ipynb
-
-https://www.sbert.net/docs/pretrained_models.html
-https://www.youtube.com/watch?v=c7AqnswslWo
-https://spacy.io/models/fr#fr_core_news_sm
+ 
+[Pretrained model](https://www.sbert.net/docs/pretrained_models.html)
+[Tutorial for Text embeding](https://www.youtube.com/watch?v=c7AqnswslWo)
+[Spacy Tokenizer](https://spacy.io/models/fr#fr_core_news_sm)
 
 
 4.DMML_2022_Geneva_Bert&Tensor_Model.ipynb
