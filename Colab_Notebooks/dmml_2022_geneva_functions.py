@@ -144,10 +144,11 @@ def balanced_f1_score(y_true, y_pred):
     recall = balanced_recall(y_true, y_pred)
     return 2 * ((precision * recall) / (precision + recall + K.epsilon()))
 
-def predict_class(reviews):
+def predict_class(reviews,model):
   '''predict class of input text
   Args:
     - reviews (list of strings)
+    - model to be used
   Output:
     - class (list of int)
   '''
