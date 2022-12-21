@@ -63,10 +63,19 @@ Distance metric: The method used to measure the distance between data points. Co
 Weighting function: The method used to weight the contribution of each nearest neighbor to the prediction. A common option is to use a uniform weighting, which gives equal weight to all neighbors, but other options include weighting by distance or using a kernel function.
 
 To use the KNN algorithm, you need to choose values for these hyperparameters and then find the K nearest neighbors for each data point using the chosen distance metric. You can then use the values of the target variable for the K nearest neighbors to make a prediction for the data point.
-
+<p align="center">
 Decision tree </br>
-Random Forest </br>
+<p>
+  A decision tree is a tree-like model used for classification and regression tasks. It is a type of supervised learning algorithm that is based on the idea of dividing the input space into regions based on the value of certain features, with the goal of achieving high accuracy in classifying or predicting the target variable.
 
+In a decision tree, each internal node represents a decision based on the value of a feature, and each leaf node represents a prediction. The decision tree is constructed by training on a dataset and using an algorithm to find the feature and decision threshold that results in the highest accuracy.
+
+For example, in a decision tree for classifying animals, an internal node might ask whether an animal has feathers, and the branches from that node would be "Yes" and "No." If the animal has feathers, the decision tree might ask whether the animal can fly, and the branches from that node would be "Yes" and "No." This process continues until the decision tree reaches a leaf node, at which point it makes a prediction about the class of the animal.
+
+Decision trees are popular because they are easy to understand and interpret, and they can handle both categorical and continuous data. However, they can also be prone to overfitting, especially if they are allowed to grow too deep. To mitigate this risk, decision trees can be pruned to remove branches that do not contribute significantly to the accuracy of the model.
+<p align="center">
+Random Forest </br>
+<p>
 We also used gridsearch and cross validation plot in the decision tree in order to find the best parameters with the highest accuracy.
 
 </br>
