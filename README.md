@@ -83,9 +83,34 @@ In a random forest model, each decision tree is trained on a random subset of th
 Random forest models are popular because they tend to be more accurate than individual decision trees and are resistant to overfitting. They are also relatively easy to train and tune, and they can handle a large number of features and can work with both categorical and continuous data.
 
 To use a random forest model, you need to choose the number of decision trees to include in the forest and set any other relevant hyperparameters, such as the maximum depth of the trees or the number of features to consider at each node. You can then train the model on your training data and use it to make predictions on new data.
-  
-  
+  </br>
+  </br>
 We also used gridsearch and cross validation plot in the decision tree in order to find the best parameters with the highest accuracy.
+<p align="center">
+Gridsearch </br>
+<p>
+  Grid search is a method used to tune the hyperparameters of a machine learning model. It involves training the model with a range of different hyperparameter values and evaluating the performance of each set of hyperparameters using a validation set. The goal is to find the combination of hyperparameters that results in the best performance on the validation set.
+
+In the case of the K-nearest neighbors (KNN) algorithm, some common hyperparameters that might be tuned using grid search include:
+
+K: The number of nearest neighbors to consider when making a prediction.
+Distance metric: The method used to measure the distance between data points.
+Weighting function: The method used to weight the contribution of each nearest neighbor to the prediction.
+To perform a grid search for KNN, you would define a range of values for each hyperparameter and then evaluate the performance of the model for every combination of hyperparameter values. For example, you might try values of K from 1 to 10 and evaluate the performance of the model for each value. You would then choose the combination of hyperparameters that resulted in the best performance on the validation set.
+
+Grid search can be computationally expensive, as it involves training the model multiple times with different hyperparameter values. However, it is a widely used method for finding the optimal hyperparameters for a machine learning model.
+  
+  <p align="center">
+Cross validation </br>
+<p>
+
+  Cross-validation is a method used to evaluate the performance of a machine learning model by training and evaluating the model multiple times on different subsets of the data. It is a way to validate the model's performance and avoid overfitting, which is when the model performs well on the training data but poorly on new, unseen data.
+
+Cross-validation involves dividing the data into a number of folds, and then training and evaluating the model on each fold. There are several different types of cross-validation, but one of the most common is K-fold cross-validation, where the data is divided into K folds and the model is trained and evaluated K times, each time using a different fold as the validation set and the remaining folds as the training set. The final performance of the model is then calculated as the average performance across all K folds.
+
+Cross-validation can be used with any type of machine learning model, including decision trees. To perform cross-validation for a decision tree, you would divide the data into K folds, train the decision tree on K-1 folds, and evaluate it on the remaining fold. You would then repeat this process K times, each time using a different fold as the validation set. The final performance of the decision tree would be calculated as the average performance across all K folds.
+
+Cross-validation is a valuable tool for evaluating the performance of a machine learning model and ensuring that it is robust and generalizable to new data. It is especially important when the amount of available data is limited, as it allows you to make the most of the data you have by training and evaluating the model multiple times.
 
 </br>
 <p align="center">
