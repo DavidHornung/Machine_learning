@@ -36,7 +36,7 @@ We decided to separate our work in 4 different colab from the simpliest model to
 <p>
 </br>
   
-In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We use spacy in order to tokenize our word and train the following models:
+In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We tokenize our word and train the following models:
 <p align="center">
 Linear Regression </br>
 <p>
