@@ -46,17 +46,11 @@ We decided to separate our work in 4 different colab from the simpliest model to
   </br>
 </br>
 In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We tokenize our word and train the following models:
-
+</br></br></br>
 <p align="center">
 <img width="800" src="https://user-images.githubusercontent.com/101266297/209134864-7231e754-2b73-4832-9b92-86694b135633.png">
 <p>
-</br>
- 
-  </br>
-  </br>
-We also used gridsearch in order to find the best parameters with the highest accuracy.
-</br>
-</br>
+</br></br></br>
 <p align="center">
 <img width="400" src="https://fontmeme.com/permalink/221219/f4054e7e06c7a18ca481271166811921.png">
 <p>
