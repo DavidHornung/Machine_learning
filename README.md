@@ -1,19 +1,17 @@
 |  <img width="600" height="400" src="https://user-images.githubusercontent.com/101266297/209135507-21954fa6-4a09-4331-ad82-4f2f50c8ec88.png">      | <img width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png"> |
 | ----------- | ----------- |
 
-
-
-
-
 # DMML2022_Geneva
 By Adrian Muino & David Hornung aka Gimli-coding
-</center>
-
 
 Brief description of the project : 
 
-
 The project was to find the best machine learning model in order to classify french text in order of difficulty (A1,A2,B1,B2,C1,C2)
+
+The utility of such project is to help identify the difficulty level of French sentences in order to improve someone’s skills. As it is important to read texts in when you trying to learn a new language, these texts have to be at the reader’s language level. However, it is difficult to find texts that are close to someone’s knowledge level (A1 to C2).
+
+For this reason, we have been asked to build a model for English speakers that predicts the difficulty of a French written text. This can be then used, e.g., in a recommendation system, to recommend texts, e.g, recent news articles that are appropriate for someone’s language level. If someone is at A1 French level, it is inappropriate to present a text at B2 level, as he or she won’t be able to understand it. Ideally, a text should have many known words and may have a few words that are unknown so that the person can improve.
+
 
 # Table of Contents
 
