@@ -12,7 +12,7 @@ For this reason, we have been asked to build a model for English speakers that p
 
 # Table of Contents
 
-1. [Mandatory Models]().
+1. [Mandatory Models](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/1.DMML_2022_Geneva_Mandatory_Models.ipynb).
 
 2. [Improved Models](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/2.DMML_2022_Geneva_Improved_Models.ipynb).
 
