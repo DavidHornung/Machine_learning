@@ -1,13 +1,7 @@
-|  <img width="400" height="200" src="https://user-images.githubusercontent.com/114933900/208516105-a174866e-93da-4a11-8a47-00200f17ce38.png">      | <img width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png"> |
+|  <img width="400" height="200" src="https://user-images.githubusercontent.com/101266297/209135507-21954fa6-4a09-4331-ad82-4f2f50c8ec88.png">      | <img width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png"> |
 | ----------- | ----------- |
-<div class="row">
-  <div class="column">
-      <img width="400" height="200" src="https://user-images.githubusercontent.com/114933900/208516105-a174866e-93da-4a11-8a47-00200f17ce38.png">
-  </div>
-  <div class="column">
-      <img width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png">
-  </div>
-</div>
+
+
 
 
 
@@ -23,13 +17,13 @@ The project was to find the best machine learning model in order to classify fre
 
 # Table of Contents
 
-1. [Models ask by the faculty]().
+1. [Mandatory Models]().
 
 2. [Models using tokenization]().
 
- 3. [Linear regression using embeding](https://colab.research.google.com/github/Adrian-Muino/DMML2022_Geneva/blob/main/Colab_Notebooks/DMML-2022_Geneva_Embeding_Model.ipynb#scrollTo=AHaES7NAqweE).
+3. [Linear regression using embeding](https://colab.research.google.com/github/Adrian-Muino/DMML2022_Geneva/blob/main/Colab_Notebooks/DMML-2022_Geneva_Embeding_Model.ipynb#scrollTo=AHaES7NAqweE).
 
- 4. [Linear regression using pretrained models Heu Adrian tu trouveras un bon titre à ton model ;)]()
+4. [Linear regression using pretrained models Heu Adrian tu trouveras un bon titre à ton model ;)]()
  
 </br>
 <p align="center">
