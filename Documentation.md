@@ -1,7 +1,7 @@
 #Bibliography
 ## 1.DMML_2022_Geneva_Mandatory_Models.ipynb
 
-We used the previous assignement that we did in class, from Michalis Vlachos [GitHub](https://github.com/michalis0/DataMining_and_MachineLearning).
+We used the previous assignments we did in class, from Michalis Vlachos [GitHub](https://github.com/michalis0/DataMining_and_MachineLearning).
 
 ## 2.DMML_2022_Geneva_Improved_Models.ipynb
 
