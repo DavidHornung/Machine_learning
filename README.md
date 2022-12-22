@@ -41,7 +41,7 @@ In this second notebook we decided to use two different NLPs that are SpaCy and 
 |F1 Score|0\.48364906264711555|0\.4820740600661711|0\.48013099700829986|0\.4747294688325296|0\.4619179523466987|0\.4604249706134107|0\.4445842616422033|0\.42420255015331937|0\.4260735394885707|0\.413796342271942|0\.4093378028521228|0\.4117283025225354|0\.4004317790331446|0\.38183735819807363|0\.3255541547284067|0\.31931761937572006|0\.3203328970233061|0\.2928699322685451|
 
 
-## [3. Linear regression using embeding (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/3.DMML_2022_Geneva_Embeding_Model.ipynb).
+## [3. Linear regression using embeding (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/3.DMML_2022_Geneva_Embeding_Model.ipynb)
 In this third notebook we succeded to improve even more our accuracy by using word embedding on the linear regression. You can see here after our results on the test set (containing 20% of the training data):
 
 |index|Logistic Regression|
@@ -64,6 +64,6 @@ In this last notebook, we succesfully implemented a Bert model called Keras from
 
 
 
-## [5. Link to the explainatory video]() : (TO BE COMPLETED)
+## [5. Link to the explainatory video (click to redirect)]()
 
 
