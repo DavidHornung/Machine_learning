@@ -19,7 +19,7 @@ The accuracy improvements in our models are illustrated here under :
 
 
 ## [1. Mandatory models (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/1.DMML_2022_Geneva_Mandatory_Models.ipynb)
-In this first notebook we were not allowed to clean the data and had to keep the sentence has they were. We also were asked to implement 4 classification models (Logistic Regression, Random Forest, K-Nearest Neighbors and Decision Tree). Here are our accuracy results on the test set (containing 20% of the training data):
+In this first notebook we were not allowed to clean the data and had to keep the sentence has they were. We also were asked to implement 4 classification models (Logistic Regression, Random Forest, K-Nearest Neighbors and Decision Tree). Here are our results on the test set ordered by accuracy (containing 20% of the training data):
 
 |index|Logistic Regression|Random Forest|K-nearest neighbors|Decision Tree|
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ In this first notebook we were not allowed to clean the data and had to keep the
 
 
 ## [2. Improved Models (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/2.DMML_2022_Geneva_Improved_Models.ipynb)
-In this second notebook we decided to use two different NLPs that are SpaCy and NLTK (described in the notebook). Also, we decided to use the previous models and add new ones (Ridge Classifier, SDG Classifier, Perceptron Classifier, Gradient Boosting, XGB Classifier). You can see here after our accuracy results on the test set (containing 20% of the training data):
+In this second notebook we decided to use two different NLPs that are SpaCy and NLTK (described in the notebook). Also, we decided to use the previous models and add new ones (Ridge Classifier, SDG Classifier, Perceptron Classifier, Gradient Boosting, XGB Classifier). You can see here after our results on the test set ordered by accuracy (containing 20% of the training data):
 
 |index|Ridge Classifier NLTK|Logistic Regression NLTK|SGD Classifier NLTK|Logistic Regression Spacy|Ridge Classifier Spacy|SGD Classifier Spacy|Perceptron Classifier NLTK|Random Forest NLTK|Gradient Boosting Classifier Spacy|Gradient Boosting Classifier NLTK|Random Forest Spacy|Perceptron Classifier Spacy|XGB Classifier Spacy|XGB Classifier NLTK|KNN NLTK|KNN Spacy|Decision Tree Spacy|Decision Tree NLTK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@ In this second notebook we decided to use two different NLPs that are SpaCy and 
 
 
 ## [3. Linear regression using embeding (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/3.DMML_2022_Geneva_Embeding_Model.ipynb).
-In this third notebook we succeded to improve even more our accuracy by using word embedding on the linear regression. You can see here after our accuracy results on the test set (containing 20% of the training data):
+In this third notebook we succeded to improve even more our accuracy by using word embedding on the linear regression. You can see here after our results on the test set (containing 20% of the training data):
 
 |index|Logistic Regression|
 |---|---|
@@ -52,7 +52,7 @@ In this third notebook we succeded to improve even more our accuracy by using wo
 
 
 ## [4. Bert & Tensor Model (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/4.DMML_2022_Geneva_Bert%26Tensor_Model.ipynb)
-
+In this last notebook, we succesfully implemented a Bert model called Keras from Tensor Hub. We also tried to create other Bert models that we couldn't implement (FlauBert and CamemBert). It is important to mention that each run of the model generates new results that might be better or worse than that (out of 10 runs we got an accuracy range between [0.505 ; 0.55583] in the competition). Here after, you can see our results for one attemp that stopped after epoch 6 out of 20 (with a test set containing 0.001% of the train data):
 
 |index|Bert & Tensor|
 |---|---|
@@ -61,7 +61,6 @@ In this third notebook we succeded to improve even more our accuracy by using wo
 |balanced_precision|0\.5924|
 |balanced_f1_score|0\.4306|
 
-<img width="400" src="https://fontmeme.com/permalink/221219/89919f5ad9759f663241eca5f028525c.png">
 
 
 ## [5. Link to the explainatory video] : (TO BE COMPLETED)
