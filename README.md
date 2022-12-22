@@ -38,7 +38,12 @@ In this second notebook we decided to use two different NLPs that are SpaCy and 
 ## [3. Linear regression using embeding (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/3.DMML_2022_Geneva_Embeding_Model.ipynb).
 In the previous colab we wanted to know the best possible model for our project. In this colab in order to improve our model we decide to transform the data in number using embedding. This is our result:
 
-<img width="400" src="https://user-images.githubusercontent.com/114933900/208947363-6b57c2a0-20ff-40f9-bbf0-47139540f95c.png">
+|index|Logistic Regression|
+|---|---|
+|accuracy|0\.5302083333333333|
+|recall|0\.531330667512549|
+|precision|0\.5285144747758403|
+|f1\_score|0\.5273578953555293|
 
 
 ## [4. Bert & Tensor Model (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/4.DMML_2022_Geneva_Bert%26Tensor_Model.ipynb)
