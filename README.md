@@ -23,22 +23,22 @@ In this first colab we were not allowed to clean the data and had to keep the se
 
 <img width="800" src="https://user-images.githubusercontent.com/101266297/209134864-7231e754-2b73-4832-9b92-86694b135633.png">
 
-</br>
-## 2. [Improved Models (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/2.DMML_2022_Geneva_Improved_Models.ipynb)
+
+## [2. Improved Models (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/2.DMML_2022_Geneva_Improved_Models.ipynb)
 
 <img width="1000" src="https://user-images.githubusercontent.com/114933900/208957680-09efa1be-0c5f-475c-856c-386085b7ceb2.png">
 
-</br>
 
-## 3. [Linear regression using embeding (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/3.DMML_2022_Geneva_Embeding_Model.ipynb).
+## [3. Linear regression using embeding (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/3.DMML_2022_Geneva_Embeding_Model.ipynb).
 
 <img width="400" src="https://user-images.githubusercontent.com/114933900/208947363-6b57c2a0-20ff-40f9-bbf0-47139540f95c.png">
 
-## 4. [Bert & Tensor Model (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/4.DMML_2022_Geneva_Bert%26Tensor_Model.ipynb)
+
+## [4. Bert & Tensor Model (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/4.DMML_2022_Geneva_Bert%26Tensor_Model.ipynb)
 
 <img width="400" src="https://fontmeme.com/permalink/221219/89919f5ad9759f663241eca5f028525c.png">
 
 
-## 5. Link to the explainatory video : (TO BE COMPLETED)
+## [5. Link to the explainatory video] : (TO BE COMPLETED)
 
 
