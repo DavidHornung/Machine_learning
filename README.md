@@ -1,6 +1,6 @@
 <div class="row">
   <div class="column">
- <img width="400" height="200">
+
       <img src="https://user-images.githubusercontent.com/114933900/208516105-a174866e-93da-4a11-8a47-00200f17ce38.png" alt="Snow">
                       </div>
   <div class="column">
