@@ -63,6 +63,6 @@ In this last notebook, we succesfully implemented a Bert model called Keras from
 
 
 
-## [5. Link to the explainatory video] : (TO BE COMPLETED)
+## [5. Link to the explainatory video]() : (TO BE COMPLETED)
 
 
