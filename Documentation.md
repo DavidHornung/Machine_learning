@@ -1,11 +1,12 @@
-# 1.DMML_2022_Geneva_Mandatory_Models.ipynb
+#Bibliography
+## 1.DMML_2022_Geneva_Mandatory_Models.ipynb
 
-We used the previous assignement that we did in class.
+We used the previous assignement that we did in class, from Michalis Vlachos [GitHub](https://github.com/michalis0/DataMining_and_MachineLearning).
 
-# 2.DMML_2022_Geneva_Improved_Models.ipynb
+## 2.DMML_2022_Geneva_Improved_Models.ipynb
 
 
-# 3.DMML_2022_Geneva_Embeding_Model.ipynb
+## 3.DMML_2022_Geneva_Embeding_Model.ipynb
  
 [Pretrained model](https://www.sbert.net/docs/pretrained_models.html)
 
@@ -19,4 +20,4 @@ We used the previous assignement that we did in class.
 
 [Colab with text Embeding](https://colab.research.google.com/github/tensorflow/text/blob/master/docs/guide/word_embeddings.ipynb#scrollTo=2MlsXzo-ZlfK)
 
-# 4.DMML_2022_Geneva_Bert&Tensor_Model.ipynb
+## 4.DMML_2022_Geneva_Bert&Tensor_Model.ipynb
