@@ -4,7 +4,7 @@
 # DMML2022_Geneva
 By Adrian Muino & David Hornung aka Gimli-coding
 
-Brief description of the project : 
+##Brief description of the project : 
 
 The project was to find the best machine learning model in order to classify french text in order of difficulty (A1,A2,B1,B2,C1,C2)
 
@@ -17,11 +17,11 @@ For this reason, we have been asked to build a model for English speakers that p
 
 1. [Mandatory Models]().
 
-2. [Models using tokenization]().
+2. [Improved Models](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/2.DMML_2022_Geneva_Improved_Models.ipynb).
 
-3. [Linear regression using embeding](https://colab.research.google.com/github/Adrian-Muino/DMML2022_Geneva/blob/main/Colab_Notebooks/DMML-2022_Geneva_Embeding_Model.ipynb#scrollTo=AHaES7NAqweE).
+3. [Linear regression using embeding](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/3.DMML_2022_Geneva_Embeding_Model.ipynb).
 
-4. [Linear regression using pretrained models Heu Adrian tu trouveras un bon titre à ton model ;)]()
+4. [Bert & Tensor Model](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/4.DMML_2022_Geneva_Bert%26Tensor_Model.ipynb)
  
 </br>
 <p align="center">
