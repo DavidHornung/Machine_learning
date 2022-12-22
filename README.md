@@ -25,6 +25,7 @@ In this first colab we were not allowed to clean the data and had to keep the se
 
 
 ## [2. Improved Models (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/2.DMML_2022_Geneva_Improved_Models.ipynb)
+In this second notebook we decided to use two different NLPs that are SpaCy and NLTK (described in the notebook). Also, we decided to use the previous models and add new ones (Ridge Classifier, SDG Classifier, Perceptron Classifier, Gradient Boosting, XGB Classifier). You can see the accuracy results on the test set here after.
 
 |index|Ridge Classifier NLTK|Logistic Regression NLTK|SGD Classifier NLTK|Logistic Regression Spacy|Ridge Classifier Spacy|SGD Classifier Spacy|Perceptron Classifier NLTK|Random Forest NLTK|Gradient Boosting Classifier Spacy|Gradient Boosting Classifier NLTK|Random Forest Spacy|Perceptron Classifier Spacy|XGB Classifier Spacy|XGB Classifier NLTK|KNN NLTK|KNN Spacy|Decision Tree Spacy|Decision Tree NLTK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
