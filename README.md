@@ -1,13 +1,9 @@
 <div class="row">
   <div class="column">
-    <p align ="left">
       <img width="400" height="200" src="https://user-images.githubusercontent.com/114933900/208516105-a174866e-93da-4a11-8a47-00200f17ce38.png">
-    </p>
   </div>
   <div class="column">
-    <p align="right">
       <img width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png">
-    </p>  
   </div>
 </div>
 
