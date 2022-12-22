@@ -19,13 +19,18 @@ The accuracy improvements in our models are illustrated here under :
 
 
 ## [1. Mandatory models (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/1.DMML_2022_Geneva_Mandatory_Models.ipynb)
-In this first colab we were not allowed to clean the data and had to keep the sentence has they were. We also were asked to implement 4 classification models (Logistic Regression, Random Forest, K-Nearest Neighbors and Decision Tree). Here are our results :
+In this first notebook we were not allowed to clean the data and had to keep the sentence has they were. We also were asked to implement 4 classification models (Logistic Regression, Random Forest, K-Nearest Neighbors and Decision Tree). Here are our accuracy results on the test set (containing 20% of the training data):
 
-<img width="800" src="https://user-images.githubusercontent.com/101266297/209134864-7231e754-2b73-4832-9b92-86694b135633.png">
+|index|Logistic Regression|Random Forest|K-nearest neighbors|Decision Tree|
+|---|---|---|---|---|
+|accuracy|0\.4666666666666667|0\.40729166666666666|0\.36041666666666666|0\.30104166666666665|
+|recall|0\.46767842372574114|0\.40937524142068993|0\.3616027940299283|0\.30090058518234275|
+|precision|0\.46449602390336936|0\.4107506458713797|0\.38589907797145173|0\.30226910102665433|
+|f1\_score|0\.4640138012889838|0\.39611059149213856|0\.3360869911734374|0\.29894041509441394|
 
 
 ## [2. Improved Models (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/2.DMML_2022_Geneva_Improved_Models.ipynb)
-In this second notebook we decided to use two different NLPs that are SpaCy and NLTK (described in the notebook). Also, we decided to use the previous models and add new ones (Ridge Classifier, SDG Classifier, Perceptron Classifier, Gradient Boosting, XGB Classifier). You can see the accuracy results on the test set here after.
+In this second notebook we decided to use two different NLPs that are SpaCy and NLTK (described in the notebook). Also, we decided to use the previous models and add new ones (Ridge Classifier, SDG Classifier, Perceptron Classifier, Gradient Boosting, XGB Classifier). You can see here after our accuracy results on the test set (containing 20% of the training data):
 
 |index|Ridge Classifier NLTK|Logistic Regression NLTK|SGD Classifier NLTK|Logistic Regression Spacy|Ridge Classifier Spacy|SGD Classifier Spacy|Perceptron Classifier NLTK|Random Forest NLTK|Gradient Boosting Classifier Spacy|Gradient Boosting Classifier NLTK|Random Forest Spacy|Perceptron Classifier Spacy|XGB Classifier Spacy|XGB Classifier NLTK|KNN NLTK|KNN Spacy|Decision Tree Spacy|Decision Tree NLTK|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -36,7 +41,7 @@ In this second notebook we decided to use two different NLPs that are SpaCy and 
 
 
 ## [3. Linear regression using embeding (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/3.DMML_2022_Geneva_Embeding_Model.ipynb).
-In the previous colab we wanted to know the best possible model for our project. In this colab in order to improve our model we decide to transform the data in number using embedding. This is our result:
+In this third notebook we succeded to improve even more our accuracy by using word embedding on the linear regression. You can see here after our accuracy results on the test set (containing 20% of the training data):
 
 |index|Logistic Regression|
 |---|---|
