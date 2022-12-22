@@ -1,4 +1,4 @@
-|  <img width="400" height="200" src="https://user-images.githubusercontent.com/101266297/209135507-21954fa6-4a09-4331-ad82-4f2f50c8ec88.png">      | <img width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png"> |
+|  <img width="600" height="200" src="https://user-images.githubusercontent.com/101266297/209135507-21954fa6-4a09-4331-ad82-4f2f50c8ec88.png">      | <img width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png"> |
 | ----------- | ----------- |
 
 
