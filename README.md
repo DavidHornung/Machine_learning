@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png"
+  <img width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png"
 </p>  
 
 <center>
