@@ -35,6 +35,7 @@ In this first colab we were not allowed to clean the data and had to keep the se
 
 
 ## [3. Linear regression using embeding (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/3.DMML_2022_Geneva_Embeding_Model.ipynb).
+In the previous colab we wanted to know the best possible model for our project. In this colab in order to improve our model we decide to transform the data in number using embedding. This is our result:
 
 <img width="400" src="https://user-images.githubusercontent.com/114933900/208947363-6b57c2a0-20ff-40f9-bbf0-47139540f95c.png">
 
