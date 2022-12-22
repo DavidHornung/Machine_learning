@@ -42,16 +42,13 @@ The project was to find the best machine learning model in order to classify fre
 
 We decided to separate our work in 4 different colab from the simpliest model to the most complicated one.
 </br>
-<p align="center">
-<img width="800" src="https://user-images.githubusercontent.com/101266297/209134864-7231e754-2b73-4832-9b92-86694b135633.png">
-<p>
-
+##Mandatory models
   </br>
 </br>
 In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We tokenize our word and train the following models:
 
 <p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/101266297/209134382-2d8a5bd3-e54d-4ebd-a1e8-e00d0f60b13c.png">
+<img width="800" src="https://user-images.githubusercontent.com/101266297/209134864-7231e754-2b73-4832-9b92-86694b135633.png">
 <p>
 </br>
  
