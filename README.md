@@ -43,7 +43,7 @@ The project was to find the best machine learning model in order to classify fre
 We decided to separate our work in 4 different colab from the simpliest model to the most complicated one.
 </br>
 <p align="center">
-<img width="400" src="https://fontmeme.com/permalink/221221/d7fef572d22a67a28eb5bd36631e80f5.png">
+<img width="600" src="https://fontmeme.com/permalink/221221/d7fef572d22a67a28eb5bd36631e80f5.png">
 <p>
   </br>
 </br>
