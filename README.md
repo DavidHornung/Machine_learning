@@ -53,6 +53,14 @@ In this third notebook we succeded to improve even more our accuracy by using wo
 
 ## [4. Bert & Tensor Model (click to redirect)](https://github.com/Adrian-Muino/DMML2022_Geneva/blob/main/Code/4.DMML_2022_Geneva_Bert%26Tensor_Model.ipynb)
 
+
+|index|Bert & Tensor|
+|---|---|
+|accuracy|0\.5704|
+|balanced_recall|0\.3441|
+|balanced_precision|0\.5924|
+|balanced_f1_score|0\.4306|
+
 <img width="400" src="https://fontmeme.com/permalink/221219/89919f5ad9759f663241eca5f028525c.png">
 
 
