@@ -50,7 +50,7 @@ We decided to separate our work in 4 different colab from the simpliest model to
 In the first colab "Models ask by the faculty" we do no data cleaning and keep the sentence has they are. We tokenize our word and train the following models:
 
 <p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/114933900/208948412-8ef63cc9-964d-43b8-963d-53ca2ce24a9b.png">
+<img width="400" src="https://[user-images.githubusercontent.com/114933900/208948412-8ef63cc9-964d-43b8-963d-53ca2ce24a9b.png](https://user-images.githubusercontent.com/101266297/209134382-2d8a5bd3-e54d-4ebd-a1e8-e00d0f60b13c.png)">
 <p>
 </br>
  
