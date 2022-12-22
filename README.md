@@ -1,17 +1,5 @@
- /* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-} 
-
+|  <img width="400" height="200" src="https://user-images.githubusercontent.com/114933900/208516105-a174866e-93da-4a11-8a47-00200f17ce38.png">      | <img width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Universit%C3%A9_de_Lausanne.svg/300px-Logo_Universit%C3%A9_de_Lausanne.svg.png"> |
+| ----------- | ----------- |
 <div class="row">
   <div class="column">
       <img width="400" height="200" src="https://user-images.githubusercontent.com/114933900/208516105-a174866e-93da-4a11-8a47-00200f17ce38.png">
