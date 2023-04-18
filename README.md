@@ -2,7 +2,7 @@
 | ----------- | ----------- |
 
 # DMML2022_Geneva
-_By Adrian Muino & David Hornung (aka Gimli-coding)_
+_By Adrian Muino & David Hornung_
 
 The project was to find the best machine learning model in order to classify french text in order of difficulty (A1,A2,B1,B2,C1,C2). This project is made for our master class in Data Mining and Machine Learning class at the Université de Lausanne HEC faculty. Results of predictions made by our models where submitted in a competition in kaggle
 [Detecting the difficulty level of French texts (click to redirect)](https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022).
